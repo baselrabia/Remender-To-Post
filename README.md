@@ -1,4 +1,4 @@
-# Remender-To-Post-
+# Reminder-To-Post
 Automatic check if user publish posts at last 7 days or not, and if he not posted anything send email to him
 
 ## Setting up
@@ -13,9 +13,9 @@ Automatic check if user publish posts at last 7 days or not, and if he not poste
 
 ### Clone GitHub repo for this project locally
 
-`git clone https://github.com/baselrabia/Remender-To-Post.git`
+`git clone https://github.com/baselrabia/Reminder-To-Post.git`
 
-- `cd Remender-To-Post`
+- `cd Reminder-To-Post`
 - `composer install`
 - `cp .env.example .env`
 - `php artisan key:generate`
